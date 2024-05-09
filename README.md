@@ -10,7 +10,7 @@ http://127.0.0.1:8000/acara/
 - Muhammad Alfi Faiz (2207045)
 
 ## Fitur
-- Melihat daftar acara musik.
+- Melihat daftar pentas acara seni musik.
 
 ## Penggunaan
 1. Pastikan anda memiliki Flutter dan FastAPI diinstal di komputer Anda.
