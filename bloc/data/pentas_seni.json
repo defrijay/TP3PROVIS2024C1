@@ -1,0 +1,99 @@
+{
+  "acara_musik": [
+    {
+      "id": 1,
+      "informasi_acara": {
+        "nama_acara": "MusikFest 2024",
+        "tanggal_waktu": "15 Juli 2024, 19.00 WIB",
+        "lokasi": "Lapangan Senayan, Jakarta",
+        "deskripsi": "MusikFest 2024 adalah acara musik tahunan yang menampilkan berbagai genre musik lokal dan internasional."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Afgan",
+          "genre": "Pop"
+        },
+        {
+          "nama": "Nama Band",
+          "genre": "Rock Alternatif"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "informasi_acara": {
+        "nama_acara": "Jazz Festival 2024",
+        "tanggal_waktu": "20 Agustus 2024, 18.30 WIB",
+        "lokasi": "Taman Ismail Marzuki, Jakarta",
+        "deskripsi": "Jazz Festival 2024 adalah festival jazz tahunan yang menampilkan berbagai musisi jazz terkemuka dari dalam dan luar negeri."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Jamie Cullum",
+          "genre": "Jazz"
+        },
+        {
+          "nama": "Dewa Budjana",
+          "genre": "Fusion Jazz"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "informasi_acara": {
+        "nama_acara": "Rock On Fest 2024",
+        "tanggal_waktu": "10 September 2024, 17.00 WIB",
+        "lokasi": "Gelora Bung Karno, Jakarta",
+        "deskripsi": "Rock On Fest 2024 adalah festival musik rock terbesar di Indonesia yang menampilkan band-band rock dari berbagai genre."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Slipknot",
+          "genre": "Metal"
+        },
+        {
+          "nama": "Gigi",
+          "genre": "Rock Alternatif"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "informasi_acara": {
+        "nama_acara": "Electronic Dance Music Party 2024",
+        "tanggal_waktu": "5 Oktober 2024, 20.00 WIB",
+        "lokasi": "Ancol Beach City, Jakarta",
+        "deskripsi": "EDM Party 2024 adalah pesta dansa elektronik yang memukau dengan penampilan dari DJ-dj ternama di dunia EDM."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Martin Garrix",
+          "genre": "Electronic Dance Music"
+        },
+        {
+          "nama": "DJ Snake",
+          "genre": "Trap"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "informasi_acara": {
+        "nama_acara": "IndieFest 2024",
+        "tanggal_waktu": "30 Oktober 2024, 16.00 WIB",
+        "lokasi": "Gudang Sarinah Ekosistem, Jakarta",
+        "deskripsi": "IndieFest 2024 adalah festival musik indie yang menampilkan berbagai musisi independen dari dalam dan luar negeri."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Mocca",
+          "genre": "Indie Pop"
+        },
+        {
+          "nama": "The Trees and The Wild",
+          "genre": "Post-rock"
+        }
+      ]
+    }
+  ]
+}

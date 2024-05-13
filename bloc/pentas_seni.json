@@ -1,0 +1,234 @@
+{
+  "acara_musik": [
+    {
+      "id": 1,
+      "informasi_acara": {
+        "nama_acara": "MusikFest 2024",
+        "tanggal_waktu": "15 Juli 2024, 19.00 WIB",
+        "lokasi": "Lapangan Senayan, Jakarta",
+        "penyelenggara_acara": "MusikIndo",
+        "deskripsi": "MusikFest 2024 adalah acara musik tahunan yang menampilkan berbagai genre musik lokal dan internasional. Acara ini akan diisi dengan penampilan live dari beberapa artis papan atas."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Afgan",
+          "genre": "Pop"
+        },
+        {
+          "nama": "Nama Band",
+          "genre": "Rock Alternatif"
+        }
+      ],
+      "tiket_dan_harga": [
+        {
+          "jenis_tiket": "Reguler",
+          "harga": "Rp 150.000"
+        },
+        {
+          "jenis_tiket": "VIP",
+          "harga": "Rp 300.000"
+        }
+      ],
+      "fasilitas_dan_layanan": {
+        "fasilitas": ["Tempat Duduk", "Tempat Parkir"],
+        "layanan": ["Makanan dan Minuman", "Area Merokok"]
+      },
+      "informasi_tambahan": {
+        "panduan_pengunjung": "Silakan membawa tikar sendiri untuk duduk di area festival.",
+        "transportasi": "Banyaknya angkutan umum yang beroperasi di sekitar lokasi acara."
+      },
+      "ulasan_dan_rating": {
+        "ulasan": "Acara luar biasa! Suasana yang hebat dan penampilan artisnya mengagumkan.",
+        "rating": "4.8/5"
+      },
+      "galeri_foto_dan_video": {
+        "foto": "[Tautan ke galeri foto]",
+        "video": "[Tautan ke video promosi]"
+      }
+    },
+    {
+      "id": 2,
+      "informasi_acara": {
+        "nama_acara": "Jazz Festival 2024",
+        "tanggal_waktu": "20 Agustus 2024, 18.30 WIB",
+        "lokasi": "Taman Ismail Marzuki, Jakarta",
+        "penyelenggara_acara": "Jazz Indo",
+        "deskripsi": "Jazz Festival 2024 adalah festival jazz tahunan yang menampilkan berbagai musisi jazz terkemuka dari dalam dan luar negeri."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Jamie Cullum",
+          "genre": "Jazz"
+        },
+        {
+          "nama": "Dewa Budjana",
+          "genre": "Fusion Jazz"
+        }
+      ],
+      "tiket_dan_harga": [
+        {
+          "jenis_tiket": "Reguler",
+          "harga": "Rp 200.000"
+        },
+        {
+          "jenis_tiket": "VIP",
+          "harga": "Rp 400.000"
+        }
+      ],
+      "fasilitas_dan_layanan": {
+        "fasilitas": ["Tempat Duduk", "Tempat Parkir"],
+        "layanan": ["Makanan dan Minuman", "Area Merokok"]
+      },
+      "informasi_tambahan": {
+        "panduan_pengunjung": "Dilarang membawa makanan dan minuman dari luar.",
+        "transportasi": "Akses mudah melalui transportasi umum seperti TransJakarta dan KRL."
+      },
+      "ulasan_dan_rating": {
+        "ulasan": "Pengalaman jazz yang luar biasa! Penampilan Jamie Cullum begitu memukau!",
+        "rating": "4.9/5"
+      },
+      "galeri_foto_dan_video": {
+        "foto": "[Tautan ke galeri foto]",
+        "video": "[Tautan ke video promosi]"
+      }
+    },
+    {
+      "id": 3,
+      "informasi_acara": {
+        "nama_acara": "Rock On Fest 2024",
+        "tanggal_waktu": "10 September 2024, 17.00 WIB",
+        "lokasi": "Gelora Bung Karno, Jakarta",
+        "penyelenggara_acara": "Rockers Community",
+        "deskripsi": "Rock On Fest 2024 adalah festival musik rock terbesar di Indonesia yang menampilkan band-band rock dari berbagai genre."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Slipknot",
+          "genre": "Metal"
+        },
+        {
+          "nama": "Gigi",
+          "genre": "Rock Alternatif"
+        }
+      ],
+      "tiket_dan_harga": [
+        {
+          "jenis_tiket": "Reguler",
+          "harga": "Rp 250.000"
+        },
+        {
+          "jenis_tiket": "VIP",
+          "harga": "Rp 500.000"
+        }
+      ],
+      "fasilitas_dan_layanan": {
+        "fasilitas": ["Tempat Duduk", "Tempat Parkir"],
+        "layanan": ["Makanan dan Minuman", "Area Merokok"]
+      },
+      "informasi_tambahan": {
+        "panduan_pengunjung": "Usia minimal 17 tahun untuk masuk ke area festival.",
+        "transportasi": "Akses mudah dengan bus dan taksi."
+      },
+      "ulasan_dan_rating": {
+        "ulasan": "Festival rock yang menggelegar! Penampilan Slipknot sangat memukau!",
+        "rating": "4.7/5"
+      },
+      "galeri_foto_dan_video": {
+        "foto": "[Tautan ke galeri foto]",
+        "video": "[Tautan ke video promosi]"
+      }
+    },
+    {
+      "id": 4,
+      "informasi_acara": {
+        "nama_acara": "Electronic Dance Music Party 2024",
+        "tanggal_waktu": "5 Oktober 2024, 20.00 WIB",
+        "lokasi": "Ancol Beach City, Jakarta",
+        "penyelenggara_acara": "EDM Indonesia",
+        "deskripsi": "EDM Party 2024 adalah pesta dansa elektronik yang memukau dengan penampilan dari DJ-dj ternama di dunia EDM."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Martin Garrix",
+          "genre": "Electronic Dance Music"
+        },
+        {
+          "nama": "DJ Snake",
+          "genre": "Trap"
+        }
+      ],
+      "tiket_dan_harga": [
+        {
+          "jenis_tiket": "Reguler",
+          "harga": "Rp 300.000"
+        },
+        {
+          "jenis_tiket": "VIP",
+          "harga": "Rp 600.000"
+        }
+      ],
+      "fasilitas_dan_layanan": {
+        "fasilitas": ["Tempat Duduk", "Tempat Parkir"],
+        "layanan": ["Makanan dan Minuman", "Area Merokok"]
+      },
+      "informasi_tambahan": {
+        "panduan_pengunjung": "Dilarang membawa kamera profesional ke dalam venue.",
+        "transportasi": "Akses mudah dengan taksi online dan mobil pribadi."
+      },
+      "ulasan_dan_rating": {
+        "ulasan": "Pesta EDM yang luar biasa! Suasana yang hebat dan musik yang menggelegar!",
+        "rating": "4.9/5"
+      },
+      "galeri_foto_dan_video": {
+        "foto": "[Tautan ke galeri foto]",
+        "video": "[Tautan ke video promosi]"
+      }
+    },
+    {
+      "id": 5,
+      "informasi_acara": {
+        "nama_acara": "IndieFest 2024",
+        "tanggal_waktu": "30 Oktober 2024, 16.00 WIB",
+        "lokasi": "Gudang Sarinah Ekosistem, Jakarta",
+        "penyelenggara_acara": "IndieMusic",
+        "deskripsi": "IndieFest 2024 adalah festival musik indie yang menampilkan berbagai musisi independen dari dalam dan luar negeri."
+      },
+      "daftar_artis": [
+        {
+          "nama": "Mocca",
+          "genre": "Indie Pop"
+        },
+        {
+          "nama": "The Trees and The Wild",
+          "genre": "Post-rock"
+        }
+      ],
+      "tiket_dan_harga": [
+        {
+          "jenis_tiket": "Reguler",
+          "harga": "Rp 100.000"
+        },
+        {
+          "jenis_tiket": "VIP",
+          "harga": "Rp 200.000"
+        }
+      ],
+      "fasilitas_dan_layanan": {
+        "fasilitas": ["Tempat Duduk", "Tempat Parkir"],
+        "layanan": ["Makanan dan Minuman", "Area Merokok"]
+      },
+      "informasi_tambahan": {
+        "panduan_pengunjung": "Acara ini bersifat ramah lingkungan, harap membuang sampah pada tempatnya.",
+        "transportasi": "Akses mudah dengan angkutan umum dan ojek online."
+      },
+      "ulasan_dan_rating": {
+        "ulasan": "Festival musik indie yang menakjubkan! Penampilan Mocca sangat memukau!",
+        "rating": "4.6/5"
+      },
+      "galeri_foto_dan_video": {
+        "foto": "[Tautan ke galeri foto]",
+        "video": "[Tautan ke video promosi]"
+      }
+    }
+  ]
+}
